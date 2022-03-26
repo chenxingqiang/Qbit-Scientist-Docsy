@@ -116,7 +116,7 @@ See our [user guide](https://www.docsy.dev/docs/getting-started/) for instructio
 [alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys
 [deploys]: https://app.netlify.com/sites/docsy-example/deploys
 [Docsy user guide]: https://docsy.dev/docs
-[Docsy]: https://github.com/google/docsy
+[Docsy]: https://github.com/chenxingqiang/Qbit-Scientist-Docsy
 [example.docsy.dev]: https://example.docsy.dev
 [Hugo theme]: https://www.mikedane.com/static-site-generators/hugo/installing-using-themes/
 [Netlify]: https://netlify.com
