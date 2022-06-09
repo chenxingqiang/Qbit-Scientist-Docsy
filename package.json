@@ -22,6 +22,6 @@
         "postcss-cli": "^9.1.0"
     },
     "dependencies": {
-        "hugo-extended": "^0.95.0"
+        "hugo-extended": "^0.100.2"
     }
 }
